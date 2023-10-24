@@ -1,0 +1,6 @@
+go 1.18
+
+use (
+	"./18 - Testes automatizados/introducao-testes"
+	"./18 - Testes automatizados/teste-avancado"
+)
